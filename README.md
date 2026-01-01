@@ -259,9 +259,24 @@ The setup process is straightforward. Here's what to expect:
 
 *Setup screen explaining charge limit persistence during sleep/power-off.*
 
+![Disable macOS Optimized Battery Charging](images/aldente/aldente_setup_2.png)
+
+*⚠️ Important: Disable macOS Optimized Battery Charging in System Settings > Battery to allow AlDente to manage your battery.*
+
 ![AlDente Pro features comparison](images/aldente/AlDente_Plan_Comparison.png)
 
 *Free vs Pro version comparison. Free version includes charge limiting and discharge - sufficient for most users.*
+
+**Additional Setup Screenshots:**
+For the complete setup walkthrough, view these additional screenshots:
+- [Setup Step 3 - Feature Overview](images/aldente/aldente_setup_3.png)
+- [Setup Step 4 - Launch Settings](images/aldente/aldente_setup_4.png)
+- [Setup Step 5 - Dock Icon Option](images/aldente/aldente_setup_5.png)
+- [Setup Step 6 - Full Screen View](images/aldente/aldente_setup_6.png)
+- [Setup Step 7 - Preferences Window](images/aldente/aldente_setup_7.png)
+- [Setup Step 8 - System Integration](images/aldente/aldente_setup_8.png)
+- [Setup Step 9 - Updates Configuration](images/aldente/aldente_setup_9.png)
+- [Setup Step 10 - Final Configuration](images/aldente/aldente_setup_10.png)
 
 **Recommended Settings:**
 - **Charge Limit**: 70-80% for daily use (extends battery lifespan)
