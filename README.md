@@ -32,6 +32,32 @@ system_profiler SPPowerDataType
 - Charging status
 - AC adapter information
 
+**Example Output:**
+```
+Power:
+
+    Battery Information:
+
+      Model Information:
+          Serial Number: C0XXXXXXXXXX90ME3
+          Manufacturer: ifixit
+          Device Name: bq40z451
+          Pack Lot Code: 3230
+          PCB Lot Code: 3230
+          Firmware Version: 2d31
+          Hardware Revision: 322d
+          Cell Revision: 3036
+      Charge Information:
+          The battery's charge is below the warning level: No
+          Fully Charged: Yes
+          Charging: No
+          Full Charge Capacity (mAh): 6900
+          State of Charge (%): 100
+      Health Information:
+          Cycle Count: 2
+          Condition: Normal
+```
+
 ### 2. Power Management Settings
 Check current battery status and power source.
 
