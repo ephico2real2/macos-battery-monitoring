@@ -434,5 +434,3 @@ This guide is provided as-is for educational purposes.
 **Created:** January 1, 2026  
 **MacBook Model:** MacBook Pro 15" (2019), MacBookPro15,3, Core i9  
 **Battery:** iFixit A1953 replacement (83.6 Wh)
-
-Co-Authored-By: Warp <agent@warp.dev>
