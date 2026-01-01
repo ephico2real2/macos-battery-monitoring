@@ -139,6 +139,12 @@ open -a coconutBattery
 
 **Location:** `/Applications/coconutBattery.app`
 
+**Screenshot:**
+
+![CoconutBattery showing MacBook Pro battery health at 98.6%](images/coconutbattery.png)
+
+*CoconutBattery displaying battery health (98.6%), cycle count (2), and temperature (30.8°C) for a newly installed iFixit battery.*
+
 ---
 
 #### 2. **Stats** (Free, Open Source)
@@ -163,6 +169,12 @@ open -a Stats
 
 **Location:** `/Applications/Stats.app`
 **GitHub:** https://github.com/exelban/stats
+
+**Screenshot:**
+
+![Stats app showing network monitoring in menu bar](images/stats-network.png)
+
+*Stats app displaying network usage, connectivity history, and top processes. Also provides battery, CPU, and memory monitoring in the menu bar.*
 
 ---
 
