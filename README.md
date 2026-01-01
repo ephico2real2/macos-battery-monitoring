@@ -223,6 +223,61 @@ Simple battery health monitoring.
 
 ---
 
+#### 4. **AlDente** (Free/Paid) ✅ Installed
+Battery charging limiter to extend battery lifespan.
+
+**Installation:**
+```bash
+brew install --cask aldente
+```
+
+**Launch:**
+```bash
+open -a AlDente
+```
+
+**Features:**
+- **Charge limiting** - Set maximum charge level (e.g., 70% or 80%)
+- **Discharge mode** - Force discharge while plugged in
+- Prevents battery degradation from staying at 100% constantly
+- Perfect for MacBooks that stay plugged in frequently
+- Free version is sufficient for most users
+- Pro version adds Sailing Mode, Calibration, Heat Protection, and more
+
+**Location:** `/Applications/AlDente.app`
+**Website:** https://apphousekitchen.com/
+
+**Setup Walkthrough:**
+
+The setup process is straightforward. Here's what to expect:
+
+![AlDente menu bar - 70% limit set](images/aldente/aldente_setup_11.png)
+
+*AlDente running in menu bar with 70% charge limit active and discharge mode available.*
+
+![AlDente initial setup](images/aldente/aldente_setup_1.png)
+
+*Setup screen explaining charge limit persistence during sleep/power-off.*
+
+![AlDente Pro features comparison](images/aldente/AlDente_Plan_Comparison.png)
+
+*Free vs Pro version comparison. Free version includes charge limiting and discharge - sufficient for most users.*
+
+**Recommended Settings:**
+- **Charge Limit**: 70-80% for daily use (extends battery lifespan)
+- **Launch at Login**: Enable if you want protection all the time
+- **Show Dock Icon**: Personal preference
+- **Allow Automatic Updates**: Recommended
+
+**Why Use AlDente?**
+
+Lithium-ion batteries degrade faster when kept at 100% charge, especially when hot. By limiting charge to 70-80%, you can significantly extend battery lifespan. This is ideal if you:
+- Work with MacBook plugged in most of the time
+- Want to preserve battery health on a new battery (like our 2-cycle iFixit replacement)
+- Rarely need the full battery capacity
+
+---
+
 ### Recommended Additional Tools
 
 #### **iStat Menus** (Paid - ~$12)
@@ -243,23 +298,6 @@ brew install --cask istat-menus
 **Website:** https://bjango.com/mac/istatmenus/
 
 ---
-
-#### **AlDente** (Free/Paid)
-Battery charging limiter to extend battery lifespan.
-
-**Installation:**
-```bash
-brew install --cask aldente
-```
-
-**Features:**
-- Charge limiting (e.g., stop at 80%)
-- Sailing mode (discharge while plugged in)
-- Heat protection
-- Battery calibration tools
-- Extends battery longevity for plugged-in usage
-
-**Website:** https://apphousekitchen.com/
 
 ## Battery Specifications
 
