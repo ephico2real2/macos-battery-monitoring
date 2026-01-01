@@ -170,11 +170,23 @@ open -a Stats
 **Location:** `/Applications/Stats.app`
 **GitHub:** https://github.com/exelban/stats
 
-**Screenshot:**
+**Screenshots:**
 
-![Stats app showing network monitoring in menu bar](images/stats-network.png)
+![Stats app - Battery monitoring](images/stats-battery.png)
 
-*Stats app displaying network usage, connectivity history, and top processes. Also provides battery, CPU, and memory monitoring in the menu bar.*
+*Battery monitoring showing 100% charge, 99% health (6887/6900/7000 mAh), 2 cycles, 86°F temperature, and power consumption details.*
+
+![Stats app - CPU monitoring](images/stats-cpu.png)
+
+*CPU monitoring displaying 8% usage, 143°F temperature, usage history, and top processes. Shows 8 hours 16 minutes uptime with detailed load averages.*
+
+![Stats app - RAM monitoring](images/stats-ram.png)
+
+*Memory monitoring showing 49% RAM usage (15.55 GB used / 32 GB total). Breakdown: 12.59 GB App memory, 2.95 GB Wired, 16.45 GB Free.*
+
+![Stats app - Network monitoring](images/stats-network.png)
+
+*Network monitoring displaying real-time bandwidth usage, connectivity history, and network interface details including local IP address.*
 
 ---
 
